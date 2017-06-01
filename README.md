@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Exceptions Project
+## Exceptions Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Exceptions Project*
 
 **Java 8**
 
